@@ -1,1 +1,1 @@
-print("abdul ali")
+print("abdul ali is chul buli")
